@@ -1,1 +1,2 @@
 Docker Commands
+docker ps
