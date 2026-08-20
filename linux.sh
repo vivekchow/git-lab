@@ -1,2 +1,3 @@
 Linux Commands
 pwd
+whoami
